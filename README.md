@@ -4,3 +4,4 @@
 - Commit hace referencia a los cambios que se van ejecutando en el archivo del repositorio.
 - Para ejecutar el sistema, debes poner:
 - ```npm install react```
+- sistema de registro 2
